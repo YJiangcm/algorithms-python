@@ -36,4 +36,7 @@ min(str) #  返回字符串 str 中最小的字母
 ## math包
 math.floor(x) # 向下取整 \
 math.ceil(x) # 向上取整 \
-math.sqrt(x) # 求算术平方根
+math.sqrt(x) # 求算术平方根 \
+math.exp(x) \
+math.log(x) \
+math.sin(x)
